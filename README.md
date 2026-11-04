@@ -1,7 +1,7 @@
-# 📞 Phone Book Management System
 
-<h1 align="center">📞 Phone Book Management System</h1>
 
+<h1 align="center">
+📞 Phone Book Management System</h1>
 <p align="center">
 <img src="https://img.shields.io/badge/Language-C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C Language">
 <img src="https://img.shields.io/badge/Build-Makefile-2E8B57?style=for-the-badge&logo=gnu&logoColor=white" alt="Makefile">
@@ -267,11 +267,7 @@ The following features can be added in future versions:
 5. Add contact import and export functionality.
 6. Develop a graphical user interface (GUI).
 7. Improve file handling and error management.
-
-## 👩‍💻 Author
-
-**Arti Rajendra Towane**
-
+   
 ## 📌 Project Purpose
 
 This project was developed to practice and understand C programming concepts, especially structures, pointers, linked lists, dynamic memory allocation, modular programming, and file handling.
