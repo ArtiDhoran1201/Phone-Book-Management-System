@@ -1,0 +1,6 @@
+PERSON:0:
+Aarti9579682714  9347357738  arti@12gmail.com  artidhoran@1gmail.com  address:Buldhana
+PERSON:1:
+Monika9271427343  3977487489  monika@123gmail.com  monika87@gmail.com  address:Latur
+PERSON:2:
+Shrutika9387435093  8375649398  shrutika@132gmail.com    address:Amravti
